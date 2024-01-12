@@ -10,7 +10,7 @@
 
 ## How to Start
 
-'''shell
+'''shell  
 $ git clone {repo addr}  
 $ cd {repo name}  
 $ python hello.py  
