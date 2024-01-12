@@ -10,15 +10,15 @@
 
 ## How to Start
 
-'''shell  
-$ git clone {repo addr}  
-$ cd {repo name}  
-$ python hello.py  
+'''shell
+$ git clone {repo addr}
+$ cd {repo name} 
+$ python hello.py
 '''
 
 '''python
-def say_hello():  
-    return 'hello'  
+def say_hello():
+    return 'hello'
 '''
 
 ### binet's formula
